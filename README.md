@@ -1,1 +1,3 @@
 # Elixir
+
+elixir hello.ex
