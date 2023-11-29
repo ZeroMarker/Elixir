@@ -1,3 +1,3 @@
 # Elixir
 
-elixir hello.ex
+
